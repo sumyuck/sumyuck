@@ -17,9 +17,10 @@ Backend • ML & AI • Systems
 
 ## 🧑🏻‍💻 About Me
 
-- Third-year CSE student with a **minor in AI**, did CVDL + NLP, taking **Reinforcement Learning** and **Soft Computing** next sem because apparently I don’t like free time  
+- AI Implementation Intern at Sprinto (May 2026 - Aug 2026)
+- FInal year CSE student with a **minor in AI**, took courses like Computer Vision using Deep Learning, Natural Language Processing, Reinforcement Learning, Soft Computing, MLops, etc
 - I enjoy wiring **backend + ML** so they actually talk to each other (APIs, real-time systems, model serving, the usual chaos)  
-- Competitive programming for brain cardio - **Codeforces Specialist**, **LeetCode Knight**, **3★ CodeChef**  
+- Competitive programming for brain cardio - **Codeforces Expert**, **LeetCode Knight**, **5★ CodeChef**  
 - I like clean abstractions, minimal UIs, and commit messages that future-me doesn’t hate
 
 ---
